@@ -92,7 +92,7 @@ dudpatil07
 - [SaifAli-S](https://github.com/SaifAli-S) - My first open source contribution
 - [Saif Ali](https://github.com/SaifAli-S) - Open source contributor
 - [Saif](https://github.com/SaifAli-S) - Software Engineer & Open Source Contributor
-- [Saif S](https://github.com/SaifAli-S) - Building open source software
+- [Saif S](https://github.com/SaifAli-S) - Building open source software]
 - [Despoju](https://github.com/Despoju) 
 [mostafa-hirch](https://github.com/bensalemhhlb-sys/MHdae6monthCohort)
 [Arnav singh].[https://github.com/arnavafk12-ship-it]-My second contribution!!!!
@@ -6449,6 +6449,7 @@ bhumika
 - [Harshil Jain](https://github.com/Hawshil)
 - [kgandhi01](https://github.com/kgandhi01)
 - Alexander N
+- [Kalid Lema](https://github.com/Kalidl)
 - [Alan Walters](https://github.com/alanjwalters)
 - [Edison Lin](https://github.com/edisonlin2873)
 - [Habtamu](https://github.com/Dark-programming546)
